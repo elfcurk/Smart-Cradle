@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\bin\Debug\arduinohaberlesme.exe.config
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\bin\Debug\arduinohaberlesme.exe
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\bin\Debug\arduinohaberlesme.pdb
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.Anasayfa.resources
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.exe
+c:\users\user\documents\visual studio 2015\Projects\arduinohaberlesme\arduinohaberlesme\obj\Debug\arduinohaberlesme.pdb
