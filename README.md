@@ -1,4 +1,4 @@
-# Smart-Cradle
+# Smart-Cradle-Project
 
 Bu proje; bir bebeğin beşiğinde uyuduğu esnada, belirlenen bir ses eşiğinin üzerinde oluşabilecek  bir gürültü sonucu bebeğin uyanmasının engellenmesi amacıyla yapıldı.
 Eğer bebek gürültü sonucunda uyanırsa, beşiğin tekrar sallanması ve eş zamanlı olarak ninni çalması ile birlikte bebeğin tekrar uykuya dalması hedeflendi.
